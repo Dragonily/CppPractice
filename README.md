@@ -4,8 +4,9 @@
 
 ##内容
 
-- hello.txt - 测试文件
-- feature.txt - 分支测试文件
+- 'main.cpp' - 第一个C++程序，输出欢迎信息
+- 'hello.txt' - 测试文件
+- 'feature.txt' - 分支测试文件
 
 ##如何运行
 
@@ -14,3 +15,9 @@
 ##作者
 
 Dragonily
+
+##编译运行
+
+'''bash
+g++ main.cpp -o main
+./main
