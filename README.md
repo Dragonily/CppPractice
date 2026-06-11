@@ -18,6 +18,5 @@ Dragonily
 
 ##编译运行
 
-'''bash
 g++ main.cpp -o main
 ./main
